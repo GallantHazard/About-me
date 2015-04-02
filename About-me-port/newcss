@@ -1,0 +1,9 @@
+body {
+	background-color: #FFFFF0
+}
+
+p {
+	text-align: center;
+	border-style: ridge;
+	border-width: 5px;
+}
